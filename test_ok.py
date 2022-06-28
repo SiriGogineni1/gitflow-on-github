@@ -3,4 +3,4 @@ def test_ok():
     """ Test Funct """
     a=1
     b=2
-    print(f'SUM :{A+B}')
+    print(f'SUM :{a+b}')
